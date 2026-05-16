@@ -4,7 +4,7 @@ Oracle Identity Governance is Oracle's traditional on-premises identity governan
 
 > ⚠️ **Note:** OIG is primarily an on-prem product. For new OCI deployments, use [Oracle Access Governance](oracle-access-governance.md) instead.
 
----
+![Oracle Identity Governance](./images/identity-governance-onprem.png)
 
 ## OCI Marketplace Deployment
 

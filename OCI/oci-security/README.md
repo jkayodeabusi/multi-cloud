@@ -4,6 +4,8 @@
 
 ---
 
+![OCI IAM Architecture](./images/IAM-productline.png)
+
 ## Overview
 
 This repository documents Oracle's cloud security strategy with a focus on Identity and Access Management. As of 2026, Oracle's recommended IAM approach centers on three pillars:
