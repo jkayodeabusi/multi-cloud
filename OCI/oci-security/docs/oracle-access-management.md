@@ -2,6 +2,8 @@
 
 Oracle Access Management provides Single Sign-On (SSO), Multi-Factor Authentication (MFA), federation, and application integration within OCI Identity Domains.
 
+![OCI Access Management](./images/access-mgt.png)
+
 ---
 
 ## Accessing OAM via OCI Console
