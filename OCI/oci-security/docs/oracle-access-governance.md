@@ -2,7 +2,7 @@
 
 Oracle Access Governance is OCI's cloud-native governance platform for managing access reviews, compliance certifications, and identity analytics. It replaces Oracle Identity Governance (OIG) for cloud environments.
 
-![OCI Access Governance](./images/access-governance.png)
+![OCI Access Governance](../images/access-governance.png)
 
 ---
 
